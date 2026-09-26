@@ -86,6 +86,6 @@ Tick a box only after the work has been implemented, tested, and verified.
 
 - [ ] Deployment (next)
   - [x] Put the project on GitHub (github.com/jibson907/portfolio)
-  - [ ] Publish the website with GitHub Pages (workflow fixed and tested locally; blocked: GitHub does not start the job)
+  - [x] Publish the website with GitHub Pages (https://jibson907.github.io/portfolio/)
   - [ ] Deploy Sanity Studio online
   - [x] Allow the live website address in Sanity CORS (https://jibson907.github.io)
