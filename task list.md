@@ -84,8 +84,8 @@ Tick a box only after the work has been implemented, tested, and verified.
   - [x] Logo: crop tool in Studio, 44px header logo, logo used as browser tab icon
   - [x] Document the final architecture
 
-- [ ] Deployment (next)
+- [x] Deployment
   - [x] Put the project on GitHub (github.com/jibson907/portfolio)
   - [x] Publish the website with GitHub Pages (https://jibson907.github.io/portfolio/)
-  - [ ] Deploy Sanity Studio online
+  - [x] Deploy Sanity Studio online (https://jibson907-portfolio.sanity.studio)
   - [x] Allow the live website address in Sanity CORS (https://jibson907.github.io)
