@@ -1,0 +1,23 @@
+{
+  "name": "studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity start",
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "seed:homepage": "sanity exec seed/homepage.js --with-user-token",
+    "seed:siteSettings": "sanity exec seed/siteSettings.js --with-user-token",
+    "seed:navigation": "sanity exec seed/navigation.js --with-user-token",
+    "seed:projects": "sanity exec seed/projects.js --with-user-token",
+    "seed:aboutPage": "sanity exec seed/aboutPage.js --with-user-token"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sanity": "^6.16.0",
+    "styled-components": "^6.5.3"
+  }
+}
